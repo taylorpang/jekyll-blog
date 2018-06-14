@@ -1,3 +1,3 @@
 # Hello world    
-This is taylor speaing!
+This is taylor speaking!
 
