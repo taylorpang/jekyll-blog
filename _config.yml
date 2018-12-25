@@ -30,3 +30,7 @@ gems:
 exclude:
   - Gemfile
   - Gemfile.lock
+# Sidebar settings
+sidebar: true                           # 是否开启侧边栏.
+sidebar-about-description: "艺术，技术就是生活本身"
+sidebar-avatar:/img/avatar-by.JPG
