@@ -30,5 +30,3 @@ gems:
 exclude:
   - Gemfile
   - Gemfile.lock
-# Disqus settings（https://disqus.com/）
-disqus_username: taylorpang
